@@ -1,6 +1,6 @@
 👋 Hi, I’m Dan!
 
-💻 I work as part of the team at WooCommerce Payments, helping to democratise commerce. In my spare time, I also enjoy learning new technologies, and building tools related to soccer analytics.
+💻 I am a developer helping to build WooPayments. In my spare time, I also enjoy learning new technologies, and building tools related to soccer analytics.
 
 <!---
 dmallory42/dmallory42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
